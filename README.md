@@ -21,5 +21,5 @@ Reference https://github.com/dswh/fuel-consumption-end-to-end-ml
 ## 5. Train and Evaluate
 
 ## 6. Reference
-1.      https://www.freecodecamp.org/news/end-to-end-machine-learning-project-turorial/
-2.      http://archive.ics.uci.edu/ml/datasets/Auto+MPG
+1.   https://www.freecodecamp.org/news/end-to-end-machine-learning-project-turorial/
+2.   http://archive.ics.uci.edu/ml/datasets/Auto+MPG
